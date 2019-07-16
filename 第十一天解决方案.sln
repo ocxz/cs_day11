@@ -17,21 +17,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_06_ToString的问题", "_0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_07_ArrayList集合个数与长度问题", "_07_ArrayList集合个数与长度问题\_07_ArrayList集合个数与长度问题.csproj", "{72B7836F-6B0E-44E4-918F-61DD3D528CAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_08_ArrayList小练习", "_08_ArrayList小练习\_08_ArrayList小练习.csproj", "{3D76504C-9ACC-4219-9587-065DFBD04837}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_08_ArrayList小练习", "_08_ArrayList小练习\_08_ArrayList小练习.csproj", "{3D76504C-9ACC-4219-9587-065DFBD04837}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_09_Hashtable键值对集合", "_09_Hashtable键值对集合\_09_Hashtable键值对集合.csproj", "{1182E8DD-1B86-4DEE-87B2-A45015998888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_09_Hashtable键值对集合", "_09_Hashtable键值对集合\_09_Hashtable键值对集合.csproj", "{1182E8DD-1B86-4DEE-87B2-A45015998888}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10_var推断类型", "_10_var推断类型\_10_var推断类型.csproj", "{7A88CE30-6E0C-4D74-83CC-A2179C1F5CC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_10_var推断类型", "_10_var推断类型\_10_var推断类型.csproj", "{7A88CE30-6E0C-4D74-83CC-A2179C1F5CC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11_foreach循环", "_11_foreach循环\_11_foreach循环.csproj", "{D53B13CD-5FEC-47CF-B885-17B0046B1AB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_11_foreach循环", "_11_foreach循环\_11_foreach循环.csproj", "{D53B13CD-5FEC-47CF-B885-17B0046B1AB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_12_Hashtable集合的常用方法", "_12_Hashtable集合的常用方法\_12_Hashtable集合的常用方法.csproj", "{940FB24B-2706-4CF6-AFBB-0F90FAF5C6B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_12_Hashtable集合的常用方法", "_12_Hashtable集合的常用方法\_12_Hashtable集合的常用方法.csproj", "{940FB24B-2706-4CF6-AFBB-0F90FAF5C6B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_12_Hashtable小练习 用户输入123转化为中文", "_12_Hashtable小练习 用户输入123转化为中文\_12_Hashtable小练习 用户输入123转化为中文.csproj", "{AC0043F7-842C-4332-85ED-1A5CE4B9EACB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_12_Hashtable小练习 用户输入123转化为中文", "_12_Hashtable小练习 用户输入123转化为中文\_12_Hashtable小练习 用户输入123转化为中文.csproj", "{AC0043F7-842C-4332-85ED-1A5CE4B9EACB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_Path类", "_13_Path类\_13_Path类.csproj", "{FBE8C139-25E8-481D-9AC7-30FF50E3C9AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_13_Path类", "_13_Path类\_13_Path类.csproj", "{FBE8C139-25E8-481D-9AC7-30FF50E3C9AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_15_File类", "_15_File类\_15_File类.csproj", "{11E1B357-B270-4D09-85F3-268199F8C2E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_15_File类", "_15_File类\_15_File类.csproj", "{11E1B357-B270-4D09-85F3-268199F8C2E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_16_File类的读写操作", "_16_File类的读写操作\_16_File类的读写操作.csproj", "{BACEE52E-FE0C-4746-9F48-6CA8BA386D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_17_File类的写操作", "_17_File类的写操作\_17_File类的写操作.csproj", "{FD9A3CE7-8A4A-4910-AAFA-7D5A65EE4D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_18_File类小练习", "_18_File类小练习\_18_File类小练习.csproj", "{A7EB7CCF-5BC9-4D3D-9D64-154BA6ECC15E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +105,18 @@ Global
 		{11E1B357-B270-4D09-85F3-268199F8C2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11E1B357-B270-4D09-85F3-268199F8C2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11E1B357-B270-4D09-85F3-268199F8C2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACEE52E-FE0C-4746-9F48-6CA8BA386D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACEE52E-FE0C-4746-9F48-6CA8BA386D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACEE52E-FE0C-4746-9F48-6CA8BA386D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACEE52E-FE0C-4746-9F48-6CA8BA386D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD9A3CE7-8A4A-4910-AAFA-7D5A65EE4D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9A3CE7-8A4A-4910-AAFA-7D5A65EE4D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9A3CE7-8A4A-4910-AAFA-7D5A65EE4D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9A3CE7-8A4A-4910-AAFA-7D5A65EE4D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7EB7CCF-5BC9-4D3D-9D64-154BA6ECC15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EB7CCF-5BC9-4D3D-9D64-154BA6ECC15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EB7CCF-5BC9-4D3D-9D64-154BA6ECC15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EB7CCF-5BC9-4D3D-9D64-154BA6ECC15E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
